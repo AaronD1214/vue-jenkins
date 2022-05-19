@@ -1,4 +1,4 @@
 
-FROM vuejenkinsapp
+FROM nginx
 
 EXPOSE 80
